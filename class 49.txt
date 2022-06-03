@@ -1,0 +1,10 @@
+                                                                    Elements of game design
+i-) characters(NPC and PC)-> kriti , friends , cycle, pavement
+ii-) goals ->  chase other players
+iii-) rules -> not cycle ingrass , ring a bell in danger and not take shortcuts
+iv-) balance-> not slow and not too fast
+v-) adaptivity-> chasing more players
+vi-) chance VS skill-> pass their chance or group up , not to stop at middle and to  hurt ourselves
+vii-) feedback->  rank
+viii-) story-> girls who are friends are  commeting each other in cycle olympics to wi chocolate cup
+
